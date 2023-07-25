@@ -27,3 +27,8 @@ Asegúrese de realizar las pruebas oportunas.
 ## Licencia
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Heroku
+
+Link al proyecto en Heroku:
+[https://peaceful-citadel-09616-b4f9904d8801.herokuapp.com/](https://peaceful-citadel-09616-b4f9904d8801.herokuapp.com/)
