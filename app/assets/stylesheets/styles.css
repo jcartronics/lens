@@ -1,0 +1,15 @@
+.about {
+    padding: 20px;
+    color: black;
+    background-color: #ddd;
+    font-weight: 800;
+}
+
+.about strong {
+    color: orange;
+    font-weight: 900;
+}
+
+.hide {
+    visibility: hidden;
+}
